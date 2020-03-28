@@ -8,7 +8,7 @@ __PHP Version used: 7__
 For XAMPP, please download and put these files in the __htdocs__ folder. (File path: __C:\\xampp\htdocs__)
 
 ## Project Description:
-My mini project is basically a health service management site. This site provides enough necessary info about health to the client. This site also has a form which integrates with MySQL and stores on it.
+My mini project is basically a health service management site. This site provides enough necessary info about health to the client. This site also has a form which integrates with MySQL and stores on it. And yes, no direct contact of user is required for DB creation!!
 
 __For personal reasons, this PHP application runs only on localhost (ie., within a PC) and it's not ready for global hosting!!!__
 
