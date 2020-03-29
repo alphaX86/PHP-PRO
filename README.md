@@ -35,7 +35,7 @@ __(c)2020,Oracle DB__
 
 ## Download Tutorial:
 
-For downloading this repo, you must have XAMPP first. Then, click **Download** on right-side of the repo. Copy all files (except workflows folder, LICENSE, README.md) to the file path __C:\\xampp\htdocs\__ (for Windows only).
+For downloading this repo, you must have XAMPP first. Then, click **Download** on right-side of the repo. Copy all files (except workflows folder, LICENSE, README.md) to the file path __C:\\xampp\htdocs\ (for Windows only).__ 
 
 Then, in XAMPP, start the Apache and MySQL. Finally run the site using the address __localhost/Home.php__
 
