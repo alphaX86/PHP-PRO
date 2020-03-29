@@ -25,12 +25,13 @@ __For personal reasons, this PHP application runs only on localhost (ie., within
 
 __(c)2020,WHO__ 
 
-__(c)UNO,2020__
+__(c)2020,UNO__
 
-__(c)Google,2020__
+__(c)2020,Google__
 
 __XAMPP [Download](https://www.apachefriends.org/index.html)__
 
-__(c) Oracle,2020__
+__(c)2020,Oracle DB__
+
 
 (c)2020,echo-864
