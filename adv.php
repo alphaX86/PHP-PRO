@@ -14,6 +14,12 @@
     include "nav.php";
 ?>
 </nav>
+<aside>
+    <?php
+        include "quick.html";
+    ?>
+    </aside>
+
 <article>
     <p>Now with the infections and pandemic rising, what we can do?? <br>
     Well, here are some of the advices from WHO</p>
@@ -38,6 +44,7 @@
 <section>
     <iframe src="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"></iframe>
 </section>
+
 <footer>
     <?php
         include "foot.php";

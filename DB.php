@@ -19,7 +19,7 @@ else
     $conn->query('CREATE DATABASE usr');
     if (mysqli_select_db($conn,'usr')) 
     { 
-        echo "Connection to server Success!<br>"; 
+        echo "<br>Connection to server Success!<br>"; 
     } 
     else
     { 

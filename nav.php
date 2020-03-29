@@ -11,8 +11,11 @@
         echo '<a href="Home.php">Home</a> | 
         <a href="med.php">MED Info</a> | 
         <a href="form.php">Form</a> | 
-        <a href="adv.php">Advice(WHO) | 
+        <a href="adv.php">Advice(WHO)</a> | 
+        <a href="doc.php">Doctors</a> | 
         <a href="cot.php">Contact</a>';
+
+        echo '<a id="root" href="log.php">Login</a>';
     ?>
 </body>
 </html>
