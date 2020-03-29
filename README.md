@@ -10,13 +10,24 @@ For XAMPP, please download and put these files in the __htdocs__ folder. (File p
 ## Project Description:
 My mini project is basically a health service management site. This site provides enough necessary info about health to the client. This site also has a form which integrates with MySQL and stores on it. And yes, no direct contact of user is required for DB creation!!
 
+The site also contains provision of ADMIN privilege to view the entries of Database.
+
+__ADMIN Login:__
+
+  __Username:*admin*__
+  
+  __Password:*1234*__
+
+
 __For personal reasons, this PHP application runs only on localhost (ie., within a PC) and it's not ready for global hosting!!!__
 
 ## Resources and References used:
 
-__WHO (c)2020__ 
+__(c)2020,WHO__ 
 
-__UNO (c)2020__
+__(c)UNO,2020__
+
+__(c)Google,2020__
 
 __XAMPP [Download](https://www.apachefriends.org/index.html)__
 
