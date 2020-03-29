@@ -13,18 +13,33 @@
 <?php
     include "nav.php";
 ?>
+</nav>
+<aside>
+    <?php
+        include "quick.html";
+    ?>
+    </aside>
 <div class="cont">
     <h3>Contact info</h3>
     <hr>
-    <b>ESC Health Services<br>
+    <b>ESC Health Services (Main Branch)<br>
     #43, Housing Street,<br>
     Chrompet<br>
     Chennai 600043.<br>
     <u>Phone No:</u>+91 932-415-3131<br>
     <u>Tel:</u>3532-4465
     <br>
-    <br></b>
+    <br>
+    ESC Health (Main Clinic)<br>
+    #27, Rue Gandhi,<br>
+    Auroville<br>
+    Puduchery 670204.<br>
+    <u>Phone No:</u>+91 723-646-1231<br>
+    <u>Tel:</u>4643-6457
+    <br>
+    </b>
 </div>
+
 <footer>
     <?php
         include "foot.php";
