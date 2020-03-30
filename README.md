@@ -17,6 +17,8 @@ __ADMIN Login:__
   __Username:*admin*__
   
   __Password:*1234*__
+  
+__WARNING: ATLEAST ONE COMPLETE FORM ENTRY IS REQUIRED TO ACCESS THE ADMIN PAGE. ELSE, ERROR OCCURS!!__
 
 
 __For personal reasons, this PHP application runs only on localhost (ie., within a PC) and it's not ready for global hosting!!!__
