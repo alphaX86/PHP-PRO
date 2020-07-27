@@ -27,7 +27,7 @@
 </section>
 <article>    
     <marquee>To seek any medical help, kindly go to the link tab!!</marquee>
-    <iframe src="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd"></iframe>
+    <iframe src="https://covid19.who.int/"></iframe>
      <p>This map shows the current stats about the pandemic COVID-19</p>
     </article>
 <article>
