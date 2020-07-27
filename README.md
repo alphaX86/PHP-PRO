@@ -41,5 +41,6 @@ For downloading this repo, you must have XAMPP first. Then, click **Download** o
 
 Then, in XAMPP, start the Apache and MySQL. Finally run the site using the address __localhost/Home.php__
 
+If you need further instructions, they're mentioned in the doc file **ITEx.docx**
 
 (c)2020,echo-864
